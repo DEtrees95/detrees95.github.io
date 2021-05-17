@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 May 2021 00:46:12 at https://klenium.github.io/pd2packages/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%l "en, *" https://klenium.github.io/pd2packages/ -O1 "C:\Meine Webseiten\123" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 11 links scanned, 10 files written (424404 bytes overall) [140587 bytes received at 46862 bytes/sec], 425062 bytes transferred using HTTP compression in 9 files, ratio 30%, 5.5 requests per connection
+(No errors, 0 warnings, 0 messages)
