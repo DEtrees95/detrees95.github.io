@@ -1,13 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-body
-{
-	margin: 0px auto;
-	padding: 20px;
-	background: #0b0b15;
-	font-family: Fjalla One;
-	color: #FFF;
-	height: 100%;
-	width: 960px;
+body {
+  text-align: center;
+}
 }
 header
 {
